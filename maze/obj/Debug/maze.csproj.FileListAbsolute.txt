@@ -1,0 +1,10 @@
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\bin\Debug\maze.exe.config
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\bin\Debug\maze.exe
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\bin\Debug\maze.pdb
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\obj\Debug\maze.csproj.AssemblyReference.cache
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\obj\Debug\maze.Form1.resources
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\obj\Debug\maze.Properties.Resources.resources
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\obj\Debug\maze.csproj.GenerateResource.cache
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\obj\Debug\maze.csproj.CoreCompileInputs.cache
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\obj\Debug\maze.exe
+C:\Users\Guest1\OneDrive\เอกสาร\maze\maze\obj\Debug\maze.pdb
