@@ -46,6 +46,3 @@ This is a simple 2D maze game developed using C# and Windows Forms. Navigate the
 * `Form1.Designer.cs`: Auto-generated code for the design of the main form, including the maze layout (black `Label` controls for walls, `PictureBox` for the player, and `Label` for the goal).
 * `Program.cs`: The entry point of the application.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE) (if you choose to add one).
